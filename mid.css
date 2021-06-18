@@ -22,7 +22,7 @@ section::before
   position: absolute;
   width: 400px;
   height:400px;
-  background: liner-gradient(#ffc107,#e91e63);
+  background: linar-gradient(#ffc107,#e91e63);
   border-radius: 50%;
   transform-translate(-250px,-120px);
 }
@@ -32,7 +32,7 @@ section::after
   position: absolute;
   width: 350px;
   height:350px;
-  background: liner-gradient(#2196f3,#31ff38);
+  background: linar-gradient(#2196f3,#31ff38);
   border-radius: 50%;
   transform-translate(250px,150px);
 }
